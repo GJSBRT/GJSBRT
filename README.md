@@ -13,3 +13,8 @@
 - Sidelife RP
 - Minecraft Party
 - Probably more which I can't remember
+
+## Contact
+**DISCORD:** GSBRT#0001
+**DISCORD:** blub#9999
+**MAIL:** Gijsbert@DutchIS.net
