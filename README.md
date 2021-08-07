@@ -17,4 +17,4 @@
 ## Contact
 **DISCORD:** GSBRT#0001
 **DISCORD:** blub#9999
-**MAIL:** Gijsbert@DutchIS.net
+**MAIL:** Gijsbert (at) DutchIS.net
