@@ -11,4 +11,5 @@
 - [Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)
 - Gelderland Roleplay
 - Sidelife RP
+- Minecraft Party
 - Probably more which I can't remember
