@@ -5,7 +5,6 @@
 [![GJSBRT's github stats](https://github-readme-stats.vercel.app/api?username=GJSBRT&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/GJSBRT)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=GJSBRT&theme=dracula)](https://github.com/GJSBRT)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GJSBRT&theme=dracula)](https://github.com/GJSBRT)
 ## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a>!
 
 ## Past Projects
