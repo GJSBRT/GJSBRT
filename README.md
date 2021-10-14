@@ -4,7 +4,7 @@
 
 [![GJSBRT's github stats](https://github-readme-stats.vercel.app/api?username=GJSBRT&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/GJSBRT)
 <br>
-## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a>!
+## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a> and <a href="https://bothosted.com" target="_blank">Bot Hosted</a>!
 
 ## Past Projects
 - Allocated Network
