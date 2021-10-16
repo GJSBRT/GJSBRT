@@ -13,6 +13,8 @@
 - [Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)
 - Gelderland Roleplay
 - Sidelife RP
+- Zieke Meuk Combat
+- West West
 - Minecraft Party
 - Probably more which I can't remember
 
