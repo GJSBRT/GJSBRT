@@ -7,18 +7,21 @@
 ## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a> and <a href="https://bothosted.com" target="_blank">Bot Hosted</a>!
 
 ## Past Projects
-- Allocated Network
-- Duindorp Roleplay
-- [Zwanenburg Roleplay](https://github.com/zwanenburgroleplay)
-- [Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)
-- Gelderland Roleplay
-- Sidelife RP
-- Zieke Meuk Combat
-- West West
-- Minecraft Party
+- Allocated Network(game network)
+- 2Survival(fivem)
+- 2GO(fivem)
+- Real Surival(fivem)
+- Duindorp Roleplay(fivem)
+- [Zwanenburg Roleplay](https://github.com/zwanenburgroleplay)(fivem)
+- [Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)(fivem)
+- Gelderland Roleplay(fivem)
+- Sidelife RP(fivem)
+- Zieke Meuk Combat(fivem)
+- West West(fivem)
+- Minecraft Party(minecraft)
 - Probably more which I can't remember
 
 ## Contact
 **DISCORD:** GSBRT#0001
-**DISCORD:** blub#9999
+**DISCORD:** blub#0331
 **MAIL:** Gijsbert (at) DutchIS.net
