@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GJSBRT&label=Profile%20views&color=0e75b6&style=flat" alt="GJSBRT"></img> </p>
 
-[![GJSBRT's github stats](https://github-readme-stats.vercel.app/api?username=GJSBRT&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/GJSBRT)
+|![GJSBRT's github stats](https://github-readme-stats.vercel.app/api?username=GJSBRT&count_private=true&show_icons=true&theme=dracula&disable_animations=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GJSBRT&theme=dracula&langs_count=10&layout=compact)|
+|:-:|:-:|
 <br>
 ## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a> and <a href="https://bothosted.com" target="_blank">Bot Hosted</a>!
 
