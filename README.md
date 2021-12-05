@@ -6,7 +6,9 @@
 |:-:|:-:|
 <br>
 
-## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a> and <a href="https://bothosted.com" target="_blank">Bot Hosted</a>!
+## Currently i'm working on:
+- <a href="https://dutchis.net" target="_blank">DutchIS</a> 
+- <a href="https://bothosted.com" target="_blank">Bot Hosted</a>
 
 ## Past Projects
 - Allocated Network(game network)
