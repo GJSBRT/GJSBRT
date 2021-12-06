@@ -8,9 +8,9 @@
 
 ## Currently i'm working on:
 - <a href="https://dutchis.net" target="_blank">DutchIS</a> 
-- <a href="https://bothosted.com" target="_blank">Bot Hosted</a>
 
 ## Past Projects
+- <a href="https://bothosted.com" target="_blank">Bot Hosted</a>
 - Allocated Network(game network)
 - 2Survival(fivem)
 - 2GO(fivem)
