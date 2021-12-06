@@ -6,11 +6,10 @@
 |:-:|:-:|
 <br>
 
-## Currently i'm working on:
-- <a href="https://dutchis.net" target="_blank">DutchIS</a> 
+## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a> 
 
 ## Past Projects
-- <a href="https://bothosted.com" target="_blank">Bot Hosted</a>
+- <a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)
 - Allocated Network(game network)
 - 2Survival(fivem)
 - 2GO(fivem)
