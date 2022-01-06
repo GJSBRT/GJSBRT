@@ -14,6 +14,7 @@
 - 2Survival(fivem)
 - 2GO(fivem)
 - Real Surival(fivem)
+- Holtenbronx(fivem)
 - Duindorp Roleplay(fivem)
 - [Zwanenburg Roleplay](https://github.com/zwanenburgroleplay)(fivem)
 - [Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)(fivem)
