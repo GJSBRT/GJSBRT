@@ -6,8 +6,6 @@
 ### Programming languages
 
 <p align="left"> 
-  
-
   <a href="https://php.net/">
     <img alt="php" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
@@ -37,9 +35,10 @@
 ## Projects
 - Deepslate
   
-<details open>
+<details hidden>
 <summary>Past Projects</summary>
 <br>
+  <p>
 - <a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)
 - Allocated Network(game network)
 - 2Survival(fivem)
@@ -56,6 +55,7 @@
 - Berg Heuvel(fivem)
 - Minecraft Party(minecraft)
 - Probably more which I can't remember
+  </p>
 </details>
   
 ## Statistics
