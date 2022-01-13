@@ -1,4 +1,4 @@
-## Heyo, I'm <a href="https://gijs.eu target="_blank">Gijsbert</a>!
+## Heyo, I'm Gijsbert!
 
 
 ## 🛠️ My Skills
@@ -37,7 +37,7 @@
 <details hidden>
 <summary>Past Projects</summary>
 <br>
-  <ol>
+  <ul>
     <li><a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)</li>
 <li>Allocated Network(game network)</li>
 <li>2Survival(fivem)</li>
@@ -53,7 +53,7 @@
 <li>West West(fivem)</li>
 <li>Berg Heuvel(fivem)</li>
 <li>Minecraft Party(minecraft)</li>
-  </ol>
+  </ul>
 </details>
   
 ## Statistics
