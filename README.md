@@ -32,7 +32,7 @@
 **MAIL:** Gijsbert (at) DutchIS.net
 
 ## Projects
-- Deepslate
+- <a href="https://gijs.eu">Deepslate</a>
   
 <details hidden>
 <summary>Past Projects</summary>
