@@ -1,14 +1,45 @@
-## Heyo, I'm <a href="https://GSBRT.xyz" target="_blank">Gijsbert</a>!
+# Heyo, I'm <a href="https://gijs.eu target="_blank">Gijsbert</a>!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GJSBRT&label=Profile%20views&color=0e75b6&style=flat" alt="GJSBRT"></img> </p>
 
-|![GJSBRT's github stats](https://github-readme-stats.vercel.app/api?username=GJSBRT&count_private=true&show_icons=true&theme=dracula&disable_animations=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GJSBRT&theme=dracula&langs_count=10&layout=compact)|
-|:-:|:-:|
+## 🛠️ My Skills
+
+### Programming languages
+
+<p align="left"> 
+  
+
+  <a href="https://php.net/">
+    <img alt="php" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://lua.org/">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white/>
+  </a>
+  &emsp;
+<a href="https://www.javascript.com">
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+</p>
+
+### Frameworks
+<p align="left"> 
+&emsp;
+  <a href="https://laravel.com/" target="_blank"> 
+     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white">
+   </a>
+</p>
+  
+## Contact
+**DISCORD:** GSBRT#0001
+**DISCORD:** blub#0331
+**MAIL:** Gijsbert (at) DutchIS.net
+
+## Projects
+- Deepslate
+  
+<details open>
+<summary>Past Projects</summary>
 <br>
-
-## Currently i'm working on <a href="https://dutchis.net" target="_blank">DutchIS</a> 
-
-## Past Projects
 - <a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)
 - Allocated Network(game network)
 - 2Survival(fivem)
@@ -25,8 +56,14 @@
 - Berg Heuvel(fivem)
 - Minecraft Party(minecraft)
 - Probably more which I can't remember
-
-## Contact
-**DISCORD:** GSBRT#0001
-**DISCORD:** blub#0331
-**MAIL:** Gijsbert (at) DutchIS.net
+</details>
+  
+## Statistics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GJSBRT&label=Profile%20views&color=0e75b6&style=flat" alt="GJSBRT"></img> </p>
+<p align="left">
+  <a href="https://gijs.eu">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gjsbrt&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gjsbrt&theme=dark&hide_border=true" />
+  </a>
+</p>
+<br>
