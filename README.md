@@ -11,7 +11,7 @@
   </a>
 &emsp;
 <a href="https://lua.org/">
-    <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white/>
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
   &emsp;
 <a href="https://www.javascript.com">
@@ -45,8 +45,8 @@
 <li>Real Surival(fivem)</li>
 <li>Holtenbronx(fivem)</li>
 <li>Duindorp Roleplay(fivem)</li>
-<li>[Zwanenburg Roleplay](https://github.com/zwanenburgroleplay)(fivem)</li>
-<li>[Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)(fivem)</li>
+<li>Zwanenburg Roleplay(fivem)</li>
+<li>Kronenburg Roleplay(fivem)</li>
 <li>Gelderland Roleplay(fivem)</li>
 <li>Sidelife RP(fivem)</li>
 <li>Zieke Meuk Combat(fivem)</li>
