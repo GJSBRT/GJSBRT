@@ -1,4 +1,4 @@
-# Heyo, I'm <a href="https://gijs.eu target="_blank">Gijsbert</a>!
+## Heyo, I'm <a href="https://gijs.eu target="_blank">Gijsbert</a>!
 
 
 ## 🛠️ My Skills
@@ -21,7 +21,6 @@
 
 ### Frameworks
 <p align="left"> 
-&emsp;
   <a href="https://laravel.com/" target="_blank"> 
      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white">
    </a>
@@ -38,24 +37,23 @@
 <details hidden>
 <summary>Past Projects</summary>
 <br>
-  <p>
-- <a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)
-- Allocated Network(game network)
-- 2Survival(fivem)
-- 2GO(fivem)
-- Real Surival(fivem)
-- Holtenbronx(fivem)
-- Duindorp Roleplay(fivem)
-- [Zwanenburg Roleplay](https://github.com/zwanenburgroleplay)(fivem)
-- [Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)(fivem)
-- Gelderland Roleplay(fivem)
-- Sidelife RP(fivem)
-- Zieke Meuk Combat(fivem)
-- West West(fivem)
-- Berg Heuvel(fivem)
-- Minecraft Party(minecraft)
-- Probably more which I can't remember
-  </p>
+  <ol>
+    <li><a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)</li>
+<li>Allocated Network(game network)</li>
+<li>2Survival(fivem)</li>
+<li>2GO(fivem)</li>
+<li>Real Surival(fivem)</li>
+<li>Holtenbronx(fivem)</li>
+<li>Duindorp Roleplay(fivem)</li>
+<li>[Zwanenburg Roleplay](https://github.com/zwanenburgroleplay)(fivem)</li>
+<li>[Kronenburg Roleplay](https://github.com/Kronenburg-Roleplay)(fivem)</li>
+<li>Gelderland Roleplay(fivem)</li>
+<li>Sidelife RP(fivem)</li>
+<li>Zieke Meuk Combat(fivem)</li>
+<li>West West(fivem)</li>
+<li>Berg Heuvel(fivem)</li>
+<li>Minecraft Party(minecraft)</li>
+  </ol>
 </details>
   
 ## Statistics
