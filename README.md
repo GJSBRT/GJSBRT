@@ -17,8 +17,8 @@
 <a href="https://www.javascript.com">
     <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
-</p>
-<a href="https://www.mysql.com">
+ &emsp;
+  <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-add8e6?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 </p>
