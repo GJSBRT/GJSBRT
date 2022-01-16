@@ -28,6 +28,9 @@
   <a href="https://laravel.com/" target="_blank"> 
      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white">
    </a>
+  <a href="https://reactjs.com/" target="_blank"> 
+     <img alt="ReactJS" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white">
+   </a>
 </p>
   
 ## Contact
