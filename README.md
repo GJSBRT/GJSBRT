@@ -9,15 +9,12 @@
   <a href="https://php.net/">
     <img alt="php" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
-&emsp;
 <a href="https://lua.org/">
     <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
-  &emsp;
 <a href="https://www.javascript.com">
     <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
- &emsp;
   <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-add8e6?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
