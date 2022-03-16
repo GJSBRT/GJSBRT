@@ -39,7 +39,7 @@
 - <a href="https://gijs.eu">Deepslate</a>
   
 <details hidden>
-<summary>Past Projects</summary>
+<summary>Other Projects</summary>
 <br>
   <ul>
     <li><a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)</li>
