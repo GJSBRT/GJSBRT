@@ -15,6 +15,9 @@
 <a href="https://www.javascript.com">
     <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
+  <a href="https://www.typescriptlang.org">
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3179c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
   <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-add8e6?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
@@ -35,8 +38,8 @@
 **DISCORD:** blub#0331
 **MAIL:** Gijsbert (at) DutchIS.net
 
-## Projects
-- <a href="https://gijs.eu">Deepslate</a>
+## Current Projects
+- <a href="https://dutchis.net">DutchIS</a>
   
 <details hidden>
 <summary>Other Projects</summary>
