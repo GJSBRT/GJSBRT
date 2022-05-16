@@ -21,6 +21,9 @@
   <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-add8e6?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
+  <a href="https://go.dev">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
 </p>
 
 ### Frameworks
@@ -29,7 +32,10 @@
      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white">
    </a>
   <a href="https://reactjs.com/" target="_blank"> 
-     <img alt="ReactJS" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white">
+     <img alt="React" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white">
+   </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+     <img alt="Vue" src="https://img.shields.io/badge/vue-3fb984?style=for-the-badge&logo=vue&logoColor=white">
    </a>
 </p>
   
