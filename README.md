@@ -40,9 +40,9 @@
 </p>
   
 ## Contact
-**DISCORD:** GSBRT#0001
-**DISCORD:** blub#0331
-**MAIL:** Gijsbert (at) DutchIS.net
+**DISCORD:** GSBRT#0001<br/>
+**DISCORD:** blub#0331<br/>
+**MAIL:** Gijsbert (at) DutchIS.net<br/>
 
 ## Current Projects
 - <a href="https://dutchis.net">DutchIS</a>
