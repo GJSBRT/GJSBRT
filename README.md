@@ -46,6 +46,7 @@
 
 ## Current Projects
 - <a href="https://dutchis.net">DutchIS</a>
+- <a href="https://noxxer.net">Noxxer</a>
   
 <details hidden>
 <summary>Other Projects</summary>
