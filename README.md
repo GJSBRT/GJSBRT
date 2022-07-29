@@ -41,7 +41,6 @@
   
 ## Contact
 **DISCORD:** GSBRT#0001<br/>
-**DISCORD:** blub#0331<br/>
 **MAIL:** Gijsbert (at) DutchIS.net<br/>
 
 ## Current Projects
