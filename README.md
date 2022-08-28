@@ -39,33 +39,34 @@
    </a>
 </p>
   
-## Contact
+## 💬 Contact
 **DISCORD:** GSBRT#0001<br/>
 **MAIL:** Gijsbert (at) DutchIS.net<br/>
 
-## Current Projects
+## 👷‍♂ Current Projects
 - <a href="https://dutchis.net">DutchIS</a>
 - <a href="https://noxxer.net">Noxxer</a>
   
 <details hidden>
-<summary>Other Projects</summary>
+<summary>Previous Projects</summary>
 <br>
   <ul>
     <li><a href="https://bothosted.com" target="_blank">Bot Hosted</a>(hosting)</li>
-<li>Allocated Network(game network)</li>
-<li>2Survival(fivem)</li>
-<li>2GO(fivem)</li>
-<li>Real Surival(fivem)</li>
-<li>Holtenbronx(fivem)</li>
-<li>Duindorp Roleplay(fivem)</li>
-<li>Zwanenburg Roleplay(fivem)</li>
-<li>Kronenburg Roleplay(fivem)</li>
-<li>Gelderland Roleplay(fivem)</li>
-<li>Sidelife RP(fivem)</li>
-<li>Zieke Meuk Combat(fivem)</li>
-<li>West West(fivem)</li>
-<li>Berg Heuvel(fivem)</li>
-<li>Minecraft Party(minecraft)</li>
+    <li>Allocated Network(game network)</li>
+    <li><a href="https://minimc.nl" target="_blank">MiniMC</a>(game network)</li>
+    <li>2Survival(fivem)</li>
+    <li>2GO(fivem)</li>
+    <li>Real Surival(fivem)</li>
+    <li>Holtenbronx(fivem)</li>
+    <li>Duindorp Roleplay(fivem)</li>
+    <li><a href="https://zwanenburgrp.nl" target="_blank">Zwanenburg Roleplay</a>(fivem)</li>
+    <li><a href="https://kronenburgrp.nl" target="_blank">Kronenburg Roleplay</a>(fivem)</li>
+    <li>Gelderland Roleplay(fivem)</li>
+    <li>Sidelife RP(fivem)</li>
+    <li>Zieke Meuk Combat(fivem)</li>
+    <li>West West(fivem)</li>
+    <li>Berg Heuvel(fivem)</li>
+    <li>Minecraft Party(minecraft)</li>
   </ul>
 </details>
   
