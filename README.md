@@ -3,7 +3,7 @@
 
 ## 🛠️ My Skills
 
-### Programming languages
+### 📚 Programming languages
 
 <p align="left"> 
   <a href="https://php.net/">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-### Frameworks
+### 🚧 Frameworks
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank"> 
      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white">
@@ -35,7 +35,10 @@
      <img alt="React" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white">
    </a>
   <a href="https://vuejs.org/" target="_blank"> 
-     <img alt="Vue" src="https://img.shields.io/badge/vue-3fb984?style=for-the-badge&logo=vue&logoColor=white">
+     <img alt="Vue" src="https://img.shields.io/badge/vue-3fb984?style=for-the-badge&logo=vue.js&logoColor=white">
+   </a>
+  <a href="https://symfony.com/" target="_blank"> 
+     <img alt="Symfony" src="https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
    </a>
 </p>
   
@@ -43,7 +46,7 @@
 **DISCORD:** GSBRT#0001<br/>
 **MAIL:** Gijsbert (at) DutchIS.net<br/>
 
-## 👷‍♂ Current Projects
+## 👷‍♂️ Current Projects
 - <a href="https://dutchis.net">DutchIS</a>
 - <a href="https://noxxer.net">Noxxer</a>
   
@@ -69,13 +72,18 @@
     <li>Minecraft Party(minecraft)</li>
   </ul>
 </details>
-  
-## Statistics
+ 
+## 🥅 Current goals
+<ul>
+  <li>Learn XDP</li>
+  <li>Learn C</li>
+  <li>Improve networking knowledge</li>
+</ul>
+ 
+## 📊 Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GJSBRT&label=Profile%20views&color=0e75b6&style=flat" alt="GJSBRT"></img> </p>
 <p align="left">
-  <a href="https://gijs.eu">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gjsbrt&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gjsbrt&theme=dark&hide_border=true" />
-  </a>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gjsbrt&show_icons=true&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gjsbrt&theme=dark&hide_border=true" />
 </p>
 <br>
