@@ -41,10 +41,6 @@
      <img alt="Symfony" src="https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
    </a>
 </p>
-  
-## 💬 Contact
-**DISCORD:** GSBRT#0001<br/>
-**MAIL:** Gijsbert (at) DutchIS.net<br/>
 
 ## 👷‍♂️ Current Projects
 - <a href="https://dutchis.net">DutchIS</a>
