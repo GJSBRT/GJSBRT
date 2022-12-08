@@ -28,3 +28,4 @@ This is what I like to use. I know that Laragon includes a MySQL server and php,
 - [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
